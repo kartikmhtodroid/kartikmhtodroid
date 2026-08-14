@@ -118,7 +118,7 @@ public:
 
 <img src="https://github-readme-stats.vercel.app/api?username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmhtodriod&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmhtodroid&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
@@ -142,13 +142,13 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikmhtodriod&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikmhtodroid&theme=github_dark" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikmhtodriod&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikmhtodroid&theme=github_dark" width="45%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikmhtodriod&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikmhtodroid&theme=github_dark" width="45%"/>
 
 </div>
 
