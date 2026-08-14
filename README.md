@@ -2,19 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,16,18,20&text=KARTIK%20MAHATO&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
 
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;C%2B%2B+Developer+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A0;Web+Developer+%F0%9F%8C%90;Building.+Learning.+Improving.+%F0%9F%9A%80" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## `⚡ SYSTEM INITIALIZED`
 
