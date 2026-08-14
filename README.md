@@ -122,7 +122,7 @@ public:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikmhtodriod&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik's%20Contribution%20Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikmhtodroid&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik's%20Contribution%20Graph" width="96%"/>
 
 </div>
 
