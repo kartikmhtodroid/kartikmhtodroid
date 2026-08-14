@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,16,18,20&text=KARTIK%20MAHATO&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
 
-
-
 ## `⚡ SYSTEM INITIALIZED`
 
-```text id="8j1v0r"
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║   > booting kartik_mahato.exe                           ║
@@ -36,7 +34,7 @@
 
 </div>
 
-```cpp id="5j6w5n"
+```cpp
 #include <iostream>
 
 class Kartik {
@@ -81,7 +79,7 @@ public:
 
 <div align="center">
 
-```text id="y2m3qk"
+```text
              ┌──────────────────────┐
              │   CURRENT MISSION    │
              └──────────┬───────────┘
@@ -122,13 +120,171 @@ public:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikmhtodroid&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik's%20Contribution%20Graph" width="96%"/>
-
 </div>
 
 ---
 
-# `06` // CONTRIBUTION SNAKE
+# `06` // PROJECTS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Things+I've+built+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Projects;Building+something+new..." />
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Project One</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=80&text=PROJECT%201&fontSize=25&fontColor=58A6FF" width="100%"/>
+
+</div>
+
+<br>
+
+**Description**
+
+> Add a short description of your project here. Explain what it does and what problem it solves.
+
+**Tech Stack**
+
+`C++` `JavaScript` `HTML` `CSS`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/kartikmhtodroid">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Project Two</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=80&text=PROJECT%202&fontSize=25&fontColor=58A6FF" width="100%"/>
+
+</div>
+
+<br>
+
+**Description**
+
+> Add a short description of your project here. Explain what it does and what problem it solves.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/kartikmhtodroid">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 Project Three</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=80&text=PROJECT%203&fontSize=25&fontColor=58A6FF" width="100%"/>
+
+</div>
+
+<br>
+
+**Description**
+
+> Add a short description of your project here. Explain what it does and what problem it solves.
+
+**Tech Stack**
+
+`C++` `C` `JavaScript`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/kartikmhtodroid">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 Project Four</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=80&text=PROJECT%204&fontSize=25&fontColor=58A6FF" width="100%"/>
+
+</div>
+
+<br>
+
+**Description**
+
+> Add a short description of your project here. Explain what it does and what problem it solves.
+
+**Tech Stack**
+
+`C++` `JavaScript` `HTML` `CSS`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/kartikmhtodroid">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# `07` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -138,25 +294,9 @@ public:
 
 ---
 
-# `07` // DEVELOPER STATS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikmhtodroid&theme=github_dark" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikmhtodroid&theme=github_dark" width="45%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikmhtodroid&theme=github_dark" width="45%"/>
-
-</div>
-
----
-
 # `08` // TERMINAL
 
-```text id="q9n2mv"
+```text
 ┌─────────────────────────────────────────────────────────┐
 │  kartik@github ~ $                                      │
 │                                                         │
