@@ -116,13 +116,13 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmhtodriod&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik's%20Contribution%20Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikmhtodriod&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik's%20Contribution%20Graph" width="96%"/>
 
 </div>
 
@@ -142,13 +142,13 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikmhtodriod&theme=github_dark" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikmhtodriod&theme=github_dark" width="45%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikmhtodriod&theme=github_dark" width="45%"/>
 
 </div>
 
