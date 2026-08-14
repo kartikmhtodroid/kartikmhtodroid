@@ -2,26 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,16,18,20&text=KARTIK%20MAHATO&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
 
-## `⚡ SYSTEM INITIALIZED`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > booting kartik_mahato.exe                           ║
-║                                                          ║
-║   [████████████████████████████████████] 100%           ║
-║                                                          ║
-║   ✓ Developer detected                                  ║
-║   ✓ C++ loaded                                           ║
-║   ✓ JavaScript loaded                                    ║
-║   ✓ Problem solving module loaded                        ║
-║   ✓ Coffee.exe running                                   ║
-║                                                          ║
-║   STATUS: READY TO BUILD                                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
@@ -29,8 +9,6 @@
 # `01` // WHO AM I?
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
 
@@ -73,29 +51,6 @@ public:
 
 </div>
 
----
-
-# `03` // CURRENT MISSION
-
-<div align="center">
-
-```text
-             ┌──────────────────────┐
-             │   CURRENT MISSION    │
-             └──────────┬───────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       C++ ⚡       WEB 🌐       LOGIC 🧠
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-                 BUILD PROJECTS
-                        │
-                        ▼
-                     SHIP 🚀
-```
-
 </div>
 
 ---
@@ -114,7 +69,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
+username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmhtodroid&theme=tokyonight&hide_border=true" width="48%"/>
 
