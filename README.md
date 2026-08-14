@@ -55,17 +55,8 @@ public:
 
 ---
 
-# `03` // DEVELOPMENT LOOP
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=300&color=58A6FF&center=true&vCenter=true&width=650&lines=01.+Think;02.+Plan;03.+Code;04.+Debug;05.+Understand;06.+Improve;07.+Repeat+%E2%86%BB" />
-
-</div>
-
----
-
-# `05` // GITHUB ACTIVITY
+# `03` // GITHUB ACTIVITY
 
 <div align="center">
 
