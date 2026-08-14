@@ -55,7 +55,7 @@ public:
 
 ---
 
-# `04` // DEVELOPMENT LOOP
+# `03` // DEVELOPMENT LOOP
 
 <div align="center">
 
@@ -79,7 +79,7 @@ username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&inclu
 
 ---
 
-# `06` // PROJECTS
+# `04` // PROJECTS
 
 <div align="center">
 
@@ -239,7 +239,7 @@ username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&inclu
 
 ---
 
-# `07` // CONTRIBUTION SNAKE
+# `05` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -248,32 +248,9 @@ username=kartikmhtodroid&show_icons=true&hide_border=true&theme=tokyonight&inclu
 </div>
 
 ---
-
-# `08` // TERMINAL
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│  kartik@github ~ $                                      │
-│                                                         │
-│  $ cat skills.txt                                       │
-│                                                         │
-│  C++          ██████████████████████░░                  │
-│  C            ███████████████████░░░                   │
-│  JavaScript   ██████████████████░░░░                   │
-│  HTML         █████████████████████░                   │
-│  CSS          ████████████████████░░                   │
-│                                                         │
-│  $ echo "Keep building."                                │
-│                                                         │
-│  Keep building. 🚀                                      │
-│                                                         │
-│  $ _                                                    │
-└─────────────────────────────────────────────────────────┘
-```
-
 ---
 
-# `09` // LET'S CONNECT
+# `06` // LET'S CONNECT
 
 <div align="center">
 
